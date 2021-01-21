@@ -1,0 +1,12 @@
+{
+  "name": "httpns",
+  "version": "1.0.0",
+  "description": "Forward port hosted server to socket hosted HTTPS server.",
+  "main": "src/httpns.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lee McDonald",
+  "license": "MIT",
+  "type": "module"
+}
